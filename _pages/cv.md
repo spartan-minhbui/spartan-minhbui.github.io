@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, Ho Chi Minh University of Technology, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY | 07/2021 - 10/2023
+  * AI Engineer
+  * Responsibilities
+    * Work in Chatbot team:
+      * Design and implement scenarios for the chatbot based on the pre-defined script.
+      * Implement and maintain services in Chatbot system and ensure that services logic flow smoothly.
+      * Prompt Engineering: leverage LLM to make the Chatbot more power.
+    * Research techniques and re-implement them for specific tasks:
+      * Implement Question Generation models with context and answer as inputs using some Transformer-based architectures.
+      * Sentiment analysis: classify user messages to visualize the usefulness and effectiveness of chatbot responses. Have experiences in finetuning LLM pretrained models, tweaking model hyperparameters.
+    * Use some techniques to increase model inference performance.
+      * Using ONNX, TorchScript ... to optimize model performance and inference time. 
+      * DVC to manage data
+    * Have some knowledge about Langchain, use it in scenarios that out of my defined flows to increase user experiene.
+  * Technologies: Pytorch, Python, ONNX, HuggingFace, Langchain.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY | 10/2023 - present
+  * AI Engineer
+  * Responsibilities
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python
+* NLP
+  * HuggingFace
+  * Transformers
+  * Pytorch
+  * Langchain
+  * LangSmith
+* Versioning
+  * Git
+  * DVC (for data)
+* Deployment
+  * Docker

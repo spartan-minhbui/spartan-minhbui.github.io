@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Minh Bui"
-  avatar           : "https://github.com/spartan-minhbui/spartan-minhbui.github.io/blob/master/images/profile.jpg?raw=true"
+  avatar           : "images/profile.png"
   bio              : "AI Engineer at Spartan"
   location         : "Ho Chi Minh, Viet Nam"
   employer         :
