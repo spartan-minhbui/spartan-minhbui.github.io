@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Minh Bui"
   avatar           : "https://github.com/spartan-minhbui/spartan-minhbui.github.io/blob/master/images/profile.jpg?raw=true"
-  bio              : ""
+  bio              : "AI Engineer at Spartan"
   location         : "Ho Chi Minh, Viet Nam"
   employer         :
   pubmed           :
-  googlescholar    : ""
+  googlescholar    : 
   email            : minh.btrc@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
