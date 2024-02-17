@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  * /resume
 ---
 
 {% include base_path %}
@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY | 07/2021 - 10/2023
+* [TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY](https://tmtco.asia/) | 07/2021 * 10/2023
   * AI Engineer
   * Responsibilities
     * Work in Chatbot team:
@@ -31,21 +31,21 @@ Work experience
     * Have some knowledge about Langchain, use it in scenarios that out of my defined flows to increase user experiene.
   * Technologies: Pytorch, Python, ONNX, HuggingFace, Langchain.
 
-* TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY | 10/2023 - present
+* [Spartan](https://hirespartan.io/) | 10/2023 * present
   * AI Engineer
   * Responsibilities
   
 Skills
 ======
-* Python
-* NLP
-  * HuggingFace
-  * Transformers
-  * Pytorch
-  * Langchain
-  * LangSmith
-* Versioning
-  * Git
-  * DVC (for data)
-* Deployment
-  * Docker
+* Detailed Experience:
+  * Natural Language Processing Techniques
+  * Strong Math and Statistics background
+  * Building, Testing Machine Learning and Deep Learning Models
+  * Integrating Machine Learning algorithms for real-time problems
+
+* Skills:
+  * Languages/Technologies: Python
+  * Frameworks: PyTorch, FastAPI
+  * Libraries: Transformers, Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, ...
+  * Database/Storing: MongoDB
+  * Version Control: GIT
